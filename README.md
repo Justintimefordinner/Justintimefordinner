@@ -1,7 +1,6 @@
-### Hi there 👋
+## Hi, I'm Justin
 
-🔭 I’m currently working on a survival/resource management RPG
-
-🌱 I’m currently learning C++
-
-⚡ Fun fact: The pool on the Titanic is still filled
+🔭 Building a survival/resource management RPG
+⚡ Aspiring embedded systems engineer — interested in low-level programming, firmware, and power systems
+🌱 Learning C++ with an eye toward bare-metal development
+🎯 Fun fact: The pool on the Titanic is still filled with water
