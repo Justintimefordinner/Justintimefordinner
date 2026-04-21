@@ -2,7 +2,7 @@
 
 🔭 Building a survival/resource management RPG
 
-⚡ Aspiring embedded systems engineer — interested in low-level programming, firmware, and power systems
+⚡ Aspiring embedded systems engineer; interested in low-level programming, firmware, and power systems
 
 🌱 Learning C++ with an eye toward bare-metal development
 
